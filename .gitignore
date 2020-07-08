@@ -4,3 +4,4 @@
 **/obj
 **/*.pdb
 Startup/Main/serverprofile.xml
+WMS/FocusOneWMS.exe.config
