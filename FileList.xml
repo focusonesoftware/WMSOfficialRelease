@@ -7,8 +7,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.BP.dll</FileName>
-        <FileVersion>3.1.33.0</FileVersion>
-        <ProductVersion>3.1.33.0</ProductVersion>
+        <FileVersion>3.1.35.0</FileVersion>
+        <ProductVersion>3.1.35.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Conf.dll</FileName>
@@ -17,8 +17,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>3.1.43.0</FileVersion>
-        <ProductVersion>3.1.43.0</ProductVersion>
+        <FileVersion>3.1.47.0</FileVersion>
+        <ProductVersion>3.1.47.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.AccountPosting.dll</FileName>
@@ -32,8 +32,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.dll</FileName>
-        <FileVersion>3.1.87.0</FileVersion>
-        <ProductVersion>3.1.87.0</ProductVersion>
+        <FileVersion>3.1.94.0</FileVersion>
+        <ProductVersion>3.1.94.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FOBGP.dll</FileName>
@@ -42,8 +42,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.Movement.dll</FileName>
-        <FileVersion>3.1.13.0</FileVersion>
-        <ProductVersion>3.1.13.0</ProductVersion>
+        <FileVersion>3.1.16.0</FileVersion>
+        <ProductVersion>3.1.16.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.WMS.dll</FileName>
@@ -52,8 +52,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.dll</FileName>
-        <FileVersion>3.1.125.0</FileVersion>
-        <ProductVersion>3.1.125.0</ProductVersion>
+        <FileVersion>3.1.127.0</FileVersion>
+        <ProductVersion>3.1.127.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Message.dll</FileName>
@@ -82,13 +82,13 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
-        <FileVersion>3.1.12.0</FileVersion>
-        <ProductVersion>3.1.12.0</ProductVersion>
+        <FileVersion>3.1.13.0</FileVersion>
+        <ProductVersion>3.1.13.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.SD.dll</FileName>
-        <FileVersion>3.1.72.0</FileVersion>
-        <ProductVersion>3.1.72.0</ProductVersion>
+        <FileVersion>3.1.73.0</FileVersion>
+        <ProductVersion>3.1.73.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Standard.Bean.dll</FileName>
@@ -97,8 +97,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.UME.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>3.1.5.0</FileVersion>
+        <ProductVersion>3.1.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.UserSession.dll</FileName>
@@ -107,8 +107,8 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Util.dll</FileName>
-        <FileVersion>3.1.105.0</FileVersion>
-        <ProductVersion>3.1.105.0</ProductVersion>
+        <FileVersion>3.1.110.0</FileVersion>
+        <ProductVersion>3.1.110.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AGComponentControl.dll</FileName>
