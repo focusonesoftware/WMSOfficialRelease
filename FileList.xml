@@ -112,8 +112,8 @@
     </Description>
     <Description>
         <FileName>AGComponentControl.dll</FileName>
-        <FileVersion>4.0.7598.21181</FileVersion>
-        <ProductVersion>4.0.7598.21181</ProductVersion>
+        <FileVersion>4.0.7598.21419</FileVersion>
+        <ProductVersion>4.0.7598.21419</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Base.dll</FileName>
@@ -282,38 +282,38 @@
     </Description>
     <Description>
         <FileName>InventoryAuthUserService.dll</FileName>
-        <FileVersion>4.0.7598.21184</FileVersion>
-        <ProductVersion>4.0.7598.21184</ProductVersion>
+        <FileVersion>4.0.7598.21421</FileVersion>
+        <ProductVersion>4.0.7598.21421</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryDBService.dll</FileName>
-        <FileVersion>4.0.7598.21181</FileVersion>
-        <ProductVersion>4.0.7598.21181</ProductVersion>
+        <FileVersion>4.0.7598.21419</FileVersion>
+        <ProductVersion>4.0.7598.21419</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryEntity.dll</FileName>
-        <FileVersion>4.0.7598.21181</FileVersion>
-        <ProductVersion>4.0.7598.21181</ProductVersion>
+        <FileVersion>4.0.7598.21418</FileVersion>
+        <ProductVersion>4.0.7598.21418</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryPickingListService.dll</FileName>
-        <FileVersion>4.0.7598.21183</FileVersion>
-        <ProductVersion>4.0.7598.21183</ProductVersion>
+        <FileVersion>4.0.7598.21420</FileVersion>
+        <ProductVersion>4.0.7598.21420</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryService.dll</FileName>
-        <FileVersion>4.0.7598.21182</FileVersion>
-        <ProductVersion>4.0.7598.21182</ProductVersion>
+        <FileVersion>4.0.7598.21420</FileVersion>
+        <ProductVersion>4.0.7598.21420</ProductVersion>
     </Description>
     <Description>
         <FileName>InventorySettingService.dll</FileName>
-        <FileVersion>4.0.7598.21181</FileVersion>
-        <ProductVersion>4.0.7598.21181</ProductVersion>
+        <FileVersion>4.0.7598.21419</FileVersion>
+        <ProductVersion>4.0.7598.21419</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryUtils.dll</FileName>
-        <FileVersion>4.0.7598.21180</FileVersion>
-        <ProductVersion>4.0.7598.21180</ProductVersion>
+        <FileVersion>4.0.7598.21418</FileVersion>
+        <ProductVersion>4.0.7598.21418</ProductVersion>
     </Description>
     <Description>
         <FileName>Newtonsoft.Json.dll</FileName>
