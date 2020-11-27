@@ -112,8 +112,8 @@
     </Description>
     <Description>
         <FileName>AGComponentControl.dll</FileName>
-        <FileVersion>4.0.7635.27232</FileVersion>
-        <ProductVersion>4.0.7635.27232</ProductVersion>
+        <FileVersion>4.0.7636.26815</FileVersion>
+        <ProductVersion>4.0.7636.26815</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Base.dll</FileName>
@@ -272,8 +272,8 @@
     </Description>
     <Description>
         <FileName>FocusOneWMS.exe</FileName>
-        <FileVersion>3.1.432.1</FileVersion>
-        <ProductVersion>3.1.432.1</ProductVersion>
+        <FileVersion>3.1.434.0</FileVersion>
+        <ProductVersion>3.1.434.0</ProductVersion>
     </Description>
     <Description>
         <FileName>FocusOneWMS.exe.config</FileName>
@@ -282,38 +282,38 @@
     </Description>
     <Description>
         <FileName>InventoryAuthUserService.dll</FileName>
-        <FileVersion>4.0.7635.27234</FileVersion>
-        <ProductVersion>4.0.7635.27234</ProductVersion>
+        <FileVersion>4.0.7636.26816</FileVersion>
+        <ProductVersion>4.0.7636.26816</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryDBService.dll</FileName>
-        <FileVersion>4.0.7635.27232</FileVersion>
-        <ProductVersion>4.0.7635.27232</ProductVersion>
+        <FileVersion>4.0.7636.26815</FileVersion>
+        <ProductVersion>4.0.7636.26815</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryEntity.dll</FileName>
-        <FileVersion>4.0.7635.27232</FileVersion>
-        <ProductVersion>4.0.7635.27232</ProductVersion>
+        <FileVersion>4.0.7636.26815</FileVersion>
+        <ProductVersion>4.0.7636.26815</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryPickingListService.dll</FileName>
-        <FileVersion>4.0.7635.27234</FileVersion>
-        <ProductVersion>4.0.7635.27234</ProductVersion>
+        <FileVersion>4.0.7636.26816</FileVersion>
+        <ProductVersion>4.0.7636.26816</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryService.dll</FileName>
-        <FileVersion>4.0.7635.27233</FileVersion>
-        <ProductVersion>4.0.7635.27233</ProductVersion>
+        <FileVersion>4.0.7636.26816</FileVersion>
+        <ProductVersion>4.0.7636.26816</ProductVersion>
     </Description>
     <Description>
         <FileName>InventorySettingService.dll</FileName>
-        <FileVersion>4.0.7635.27232</FileVersion>
-        <ProductVersion>4.0.7635.27232</ProductVersion>
+        <FileVersion>4.0.7636.26815</FileVersion>
+        <ProductVersion>4.0.7636.26815</ProductVersion>
     </Description>
     <Description>
         <FileName>InventoryUtils.dll</FileName>
-        <FileVersion>4.0.7635.27231</FileVersion>
-        <ProductVersion>4.0.7635.27231</ProductVersion>
+        <FileVersion>4.0.7636.26815</FileVersion>
+        <ProductVersion>4.0.7636.26815</ProductVersion>
     </Description>
     <Description>
         <FileName>Newtonsoft.Json.dll</FileName>
