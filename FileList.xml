@@ -2,68 +2,68 @@
 <FileList>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Authorization.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.BP.dll</FileName>
-        <FileVersion>3.1.33.0</FileVersion>
-        <ProductVersion>3.1.33.0</ProductVersion>
+        <FileVersion>4.8.49.0</FileVersion>
+        <ProductVersion>4.8.49.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Conf.dll</FileName>
-        <FileVersion>3.1.15.0</FileVersion>
-        <ProductVersion>3.1.15.0</ProductVersion>
+        <FileVersion>4.8.32.0</FileVersion>
+        <ProductVersion>4.8.32.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.AP.dll</FileName>
-        <FileVersion>3.1.43.0</FileVersion>
-        <ProductVersion>3.1.43.0</ProductVersion>
+        <FileVersion>4.8.75.0</FileVersion>
+        <ProductVersion>4.8.75.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.AccountPosting.dll</FileName>
-        <FileVersion>3.1.3.0</FileVersion>
-        <ProductVersion>3.1.3.0</ProductVersion>
+        <FileVersion>4.8.11.0</FileVersion>
+        <ProductVersion>4.8.11.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.WMS.dll</FileName>
-        <FileVersion>3.1.1.0</FileVersion>
-        <ProductVersion>3.1.1.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FI.dll</FileName>
-        <FileVersion>3.1.87.0</FileVersion>
-        <ProductVersion>3.1.87.0</ProductVersion>
+        <FileVersion>4.8.124.0</FileVersion>
+        <ProductVersion>4.8.124.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.FOBGP.dll</FileName>
-        <FileVersion>3.1.0.2</FileVersion>
-        <ProductVersion>3.1.0.2</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.Movement.dll</FileName>
-        <FileVersion>3.1.16.0</FileVersion>
-        <ProductVersion>3.1.16.0</ProductVersion>
+        <FileVersion>4.8.28.0</FileVersion>
+        <ProductVersion>4.8.28.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.WMS.dll</FileName>
-        <FileVersion>3.1.27.0</FileVersion>
-        <ProductVersion>3.1.27.0</ProductVersion>
+        <FileVersion>4.8.21.0</FileVersion>
+        <ProductVersion>4.8.21.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.MM.dll</FileName>
-        <FileVersion>3.1.131.0</FileVersion>
-        <ProductVersion>3.1.131.0</ProductVersion>
+        <FileVersion>4.8.150.0</FileVersion>
+        <ProductVersion>4.8.150.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Message.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.RB.PettyCashPay.dll</FileName>
-        <FileVersion>3.1.17.0</FileVersion>
-        <ProductVersion>3.1.17.0</ProductVersion>
+        <FileVersion>4.8.18.0</FileVersion>
+        <ProductVersion>4.8.18.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.RB.WMS.dll</FileName>
@@ -72,23 +72,23 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.RB.dll</FileName>
-        <FileVersion>3.1.7.0</FileVersion>
-        <ProductVersion>3.1.7.0</ProductVersion>
+        <FileVersion>4.8.2.0</FileVersion>
+        <ProductVersion>4.8.2.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.SD.BillingAmortization.DLL</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.SD.DeliveryOrder.dll</FileName>
-        <FileVersion>3.1.12.0</FileVersion>
-        <ProductVersion>3.1.12.0</ProductVersion>
+        <FileVersion>3.1.10.0</FileVersion>
+        <ProductVersion>3.1.10.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.SD.dll</FileName>
-        <FileVersion>3.1.72.0</FileVersion>
-        <ProductVersion>3.1.72.0</ProductVersion>
+        <FileVersion>3.1.68.0</FileVersion>
+        <ProductVersion>3.1.68.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Standard.Bean.dll</FileName>
@@ -97,18 +97,18 @@
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.UME.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>4.8.5.0</FileVersion>
+        <ProductVersion>4.8.5.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.UserSession.dll</FileName>
-        <FileVersion>3.1.0.1</FileVersion>
-        <ProductVersion>3.1.0.1</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AG.FLM.Remote.Proxy.Util.dll</FileName>
-        <FileVersion>3.1.105.0</FileVersion>
-        <ProductVersion>3.1.105.0</ProductVersion>
+        <FileVersion>3.1.94.0</FileVersion>
+        <ProductVersion>3.1.94.0</ProductVersion>
     </Description>
     <Description>
         <FileName>AGComponentControl.dll</FileName>
@@ -117,38 +117,38 @@
     </Description>
     <Description>
         <FileName>Agape.Base.dll</FileName>
-        <FileVersion>3.2.2.0</FileVersion>
-        <ProductVersion>3.2.2.0</ProductVersion>
+        <FileVersion>4.8.40.0</FileVersion>
+        <ProductVersion>4.8.40.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Core.dll</FileName>
-        <FileVersion>3.1.0.4</FileVersion>
-        <ProductVersion>3.1.0.4</ProductVersion>
+        <FileVersion>4.2.1.3</FileVersion>
+        <ProductVersion>4.2.1.3</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Lib.Authorization.dll</FileName>
-        <FileVersion>3.1.4.0</FileVersion>
-        <ProductVersion>3.1.4.0</ProductVersion>
+        <FileVersion>4.8.6.0</FileVersion>
+        <ProductVersion>4.8.6.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Lib.MM.dll</FileName>
-        <FileVersion>3.1.414.0</FileVersion>
-        <ProductVersion>3.1.414.0</ProductVersion>
+        <FileVersion>4.8.629.0</FileVersion>
+        <ProductVersion>4.8.629.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Lib.Remote.UME.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>3.2.0.0</FileVersion>
+        <ProductVersion>3.2.0.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Lib.UserSession.dll</FileName>
-        <FileVersion>3.1.0.6</FileVersion>
-        <ProductVersion>3.1.0.6</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Agape.Util.dll</FileName>
-        <FileVersion>3.2.15.0</FileVersion>
-        <ProductVersion>3.2.15.0</ProductVersion>
+        <FileVersion>4.8.140.0</FileVersion>
+        <ProductVersion>4.8.140.0</ProductVersion>
     </Description>
     <Description>
         <FileName>Bunifu_UI_v1.5.3.dll</FileName>
@@ -252,18 +252,18 @@
     </Description>
     <Description>
         <FileName>FLM.Base.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>4.8.3.0</FileVersion>
+        <ProductVersion>4.8.3.0</ProductVersion>
     </Description>
     <Description>
         <FileName>FLM.Core.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>4.8.1.0</FileVersion>
+        <ProductVersion>4.8.1.0</ProductVersion>
     </Description>
     <Description>
         <FileName>FLM.Logging.dll</FileName>
-        <FileVersion>3.1.0.0</FileVersion>
-        <ProductVersion>3.1.0.0</ProductVersion>
+        <FileVersion>4.8.1.1</FileVersion>
+        <ProductVersion>4.8.1.1</ProductVersion>
     </Description>
     <Description>
         <FileName>FlashControlV71.dll</FileName>
